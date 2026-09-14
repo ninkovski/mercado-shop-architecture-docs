@@ -1,5 +1,7 @@
 # Historias de implementación (agent-ready)
 
+> Ver estándar obligatorio: `docs/backlog/development-standards-and-stack-rationale.md`
+
 Este documento define historias de implementación listas para que un agente construya componentes MVP sin ambigüedad.
 
 ## Estructura sugerida para backlog por dominio
