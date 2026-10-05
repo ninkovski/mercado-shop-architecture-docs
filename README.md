@@ -27,6 +27,7 @@ La plataforma debe permitir que cada tienda comparta capacidades comunes, pero m
 - Patrones event-driven y async
 - Esquema mínimo de Airtable
 - Backlog de tareas listas para agentes
+- Starter pack de repos y skills por componente
 
 ## Mapa de repos futuros
 
@@ -120,6 +121,10 @@ Antes de crear repos de implementación, esta documentación define:
 - estructura de eventos
 - esquema mínimo de datos
 - tareas listas para agentes
+
+## Starter packs para implementación
+
+- `docs/backlog/repo-starter-packs.md`: repos acordados + starter pack de skills por componente.
 
 ## Próximos pasos recomendados
 
